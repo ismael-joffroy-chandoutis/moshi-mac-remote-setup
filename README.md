@@ -204,3 +204,5 @@ tailscale debug netmap | python3 -c "import json,sys; d=json.load(sys.stdin); [p
 - Code (scripts): [PolyForm Noncommercial 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 
 Not affiliated with Moshi or Tailscale. Tool names belong to their owners.
+
+By [Ismaël Joffroy Chandoutis](https://ismaeljoffroychandoutis.com).
