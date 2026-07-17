@@ -1,3 +1,5 @@
+**English** · [Français](README.fr.md)
+
 # Drive your Mac from your iPhone with Moshi: the complete setup (and the gotchas nobody documents)
 
 A field guide to running [Moshi](https://getmoshi.app) (the iOS terminal + AI-agent companion) against a Mac, end to end:
